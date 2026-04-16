@@ -13,10 +13,9 @@ A modern, distraction-free focus timer app built with SwiftUI, designed to help 
 
 ## Screenshots
 
-<img src="./docs/home.png" width="300">
-<img src="./docs/task.png" width="300">
-<img src="./docs/add_task.png" width="300">
-<img src="./docs/warning.png" width="300">
+<img src="./docs/home.png" width="200"><img src="./docs/task.png" width="200"><img src="./docs/add_task.png" width="200"><img src="./docs/warning.png" width="200">
+
+<img src="./docs/home_dark.png" width="200"><img src="./docs/task_dark.png" width="200"><img src="./docs/add_task_dark.png" width="200"><img src="./docs/warning_dark.png" width="200">
 
 
 ## Getting Started
