@@ -63,7 +63,7 @@
 			fileSystemSynchronizedGroups = (
 				26E093CB2F8E28A3001384B0 /* deepfocus */,
 			);
-			name = deepfocus;
+			name = DeepFocus;
 			packageProductDependencies = (
 			);
 			productName = deepfocus;
